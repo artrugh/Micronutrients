@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Zinc 22",
+    "amountPill": 22,
+    "unit": "mg",
+    "absorption": 15
+  },
+  {
+    "name": "Zinc 30",
+    "amountPill": 30,
+    "unit": "mg",
+    "absorption": 10
+  },
+  {
+    "name": "Zinc 50",
+    "amountPill": 50,
+    "unit": "mg",
+    "absorption": 10
+  },
+  {
+    "name": "Vitamin D3 1000",
+    "amountPill": 1000,
+    "unit": "Ui",
+    "absorption": 78
+  },
+  {
+    "name": "Vitamin D3 3000",
+    "amountPill": 3000,
+    "unit": "Ui",
+    "absorption": 78
+  },
+  {
+    "name": "Omega-3 750",
+    "amountPill": 750,
+    "unit": "mg",
+    "absorption": 100
+  },
+  {
+    "name": "Omega-3 1400",
+    "amountPill": 1400,
+    "unit": "mg",
+    "absorption": 100
+  }
+]
